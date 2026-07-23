@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href="https://www.keio.ac.jp/">Keio University</a>, Katsura Laboratory
 
 profile:
   align: right
