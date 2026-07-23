@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Kosuke Nazawa
 permalink: /
 subtitle: <a href="https://www.keio.ac.jp/">Keio University</a>, <a href="https://www.katsura.sd.keio.ac.jp/">Katsura Laboratory</a><br>
   <a href="https://www.keio.ac.jp/">慶應義塾大学</a>, <a href="https://www.katsura.sd.keio.ac.jp/">桂研究室</a><br>
