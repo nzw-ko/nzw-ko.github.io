@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Physical-AI seminar / フィジカルAI勉強会
-description: with background image
+title: Physical-AI seminar
+description: フィジカルAI勉強会
 img: assets/img/12.jpg
 importance: 1
 category: work
