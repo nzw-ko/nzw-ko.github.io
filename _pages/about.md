@@ -9,10 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><strong>+81-45-566-1724</strong></p>
-    <p>〒 223-8522 </p>
-    <p>3-14-1 Hiyoshi, Kohoku-ku, Yokohama, Kanagawa, Japan</p>
-    <p>神奈川県横浜市港北区日吉 3-14-1</p>
+    <p><strong>nazawa[at]katsura.sd.keio.ac.jp</strong></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,8 +24,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<a href="https://www.keio.ac.jp/">Keio University</a>, <a href="https://www.katsura.sd.keio.ac.jp/">Katsura Laboratory</a><br>
-<a href="https://www.keio.ac.jp/">慶應義塾大学</a>, <a href="https://www.katsura.sd.keio.ac.jp/">桂研究室</a><br>
+Affiliation: <a href="https://www.keio.ac.jp/">Keio University</a>, <a href="https://www.katsura.sd.keio.ac.jp/">Katsura Laboratory</a><br>
+所属: <a href="https://www.keio.ac.jp/">慶應義塾大学</a>, <a href="https://www.katsura.sd.keio.ac.jp/">桂研究室</a><br>
 
 My B.E. degree in system design engineering from Keio University, Yokohama, Japan, in 2025. 
 I am currently working toward an M.E. degree at Keio University. 

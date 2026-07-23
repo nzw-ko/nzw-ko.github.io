@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Physical-AI seminar / フィジカルAI勉強会
 description: with background image
 img: assets/img/12.jpg
 importance: 1
