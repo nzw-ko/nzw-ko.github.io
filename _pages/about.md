@@ -10,11 +10,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><strong>Master's Student / 修士課程</strong></p>
-    <p>Katsura Laboratory / 桂研究室</p>
-    <p>Graduate School of Science and Technology / 理工学研究科</p>
-    <p>Keio University / 慶應義塾大学</p>
-    <p>Yokohama, Japan / 神奈川県横浜市</p>
+    <p><strong>+81-45-566-1724</strong></p>
+    <p>〒 223-8522 横浜市港北区日吉 3-14-1</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
