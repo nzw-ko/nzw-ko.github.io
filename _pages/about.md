@@ -6,7 +6,7 @@ subtitle: Kosuke Nazawa / 名澤考祐
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: nazawa.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><strong>nazawa[at]katsura.sd.keio.ac.jp</strong></p>
