@@ -2,16 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.keio.ac.jp/">Keio University</a>, Katsura Laboratory
+subtitle: <a href="https://www.keio.ac.jp/">Keio University</a>, <a href="https://www.katsura.sd.keio.ac.jp/">Katsura Laboratory</a><br>
+  <a href="https://www.keio.ac.jp/">慶應義塾大学</a>, <a href="https://www.katsura.sd.keio.ac.jp/">桂研究室</a><br>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><strong>Master's Student / 修士課程</strong></p>
+    <p>Katsura Laboratory / 桂研究室</p>
+    <p>Graduate School of Science and Technology / 理工学研究科</p>
+    <p>Keio University / 慶應義塾大学</p>
+    <p>Yokohama, Japan / 神奈川県横浜市</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +30,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My B.E. degree in system design engineering from Keio University, Yokohama, Japan, in 2025. 
+I am currently working toward an M.E. degree at Keio University. 
+My research interests include artificial intelligence and soft robotics. 
+I am a Student Member of IEEE, as well as a Student Member of The Institute of Electrical Engineers of Japan (IEEJ), and The Robotics Society of Japan.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+2025年に慶應義塾大学理工学部システムデザイン工学科を卒業。
+現在、慶應義塾大学大学院理工学研究科前期博士課程(修士課程)に在籍し，人工知能およびソフトロボティクスに関する研究に取り組んでいる。
+IEEE学生会員，電気学会（IEEJ）学生会員，日本ロボット学会学生会員。
